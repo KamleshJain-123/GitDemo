@@ -1,0 +1,14 @@
+2024-07-04 23:12:31,740 :INFO :test_fixturedemo :jain
+2024-07-04 23:12:31,741 :INFO :test_fixturedemo :['Kamlesh', 'jain', 'Sandeep']
+2024-07-04 23:14:08,160 :INFO :test_fixturedemo :jain
+2024-07-04 23:14:08,161 :INFO :test_fixturedemo :['Kamlesh', 'jain', 'Sandeep']
+2024-07-04 23:18:37,181 :DEBUG :mypytestdemo.test_logging :debug
+2024-07-04 23:18:37,182 :INFO :mypytestdemo.test_logging :inforrmation
+2024-07-04 23:18:37,183 :WARNING :mypytestdemo.test_logging :warnning
+2024-07-04 23:18:37,183 :ERROR :mypytestdemo.test_logging :error
+2024-07-04 23:18:37,183 :CRITICAL :mypytestdemo.test_logging :critical
+2024-07-04 23:19:02,069 :DEBUG :mypytestdemo.test_logging :debug
+2024-07-04 23:19:02,070 :INFO :mypytestdemo.test_logging :inforrmation
+2024-07-04 23:19:02,070 :WARNING :mypytestdemo.test_logging :warnning
+2024-07-04 23:19:02,070 :ERROR :mypytestdemo.test_logging :error
+2024-07-04 23:19:02,071 :CRITICAL :mypytestdemo.test_logging :critical
