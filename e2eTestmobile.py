@@ -42,5 +42,3 @@ class testOne:
     print("this is github commit example 7")
     print("this is github commit example 7")
     print("this is github commit example 9")
-
-    
