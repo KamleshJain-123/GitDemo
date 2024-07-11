@@ -39,10 +39,6 @@ class testOne:
     print("this is github commit example 5")
     print("this is github commit example 6")
     print("this is github commit example 8")
-<<<<<<< HEAD
-=======
     print("this is github commit example 7")
     print("this is github commit example 7")
-
     
->>>>>>> develop
