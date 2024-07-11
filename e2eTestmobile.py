@@ -33,12 +33,4 @@ class testOne:
     driver.close()
 
     print("this is github commit example 1")
-    print("this is github commit example 2")
-    print("this is github commit example 3")
-    print("this is github commit example 4")
-    print("this is github commit example 5")
-    print("this is github commit example 6")
-    print("this is github commit example 8")
-    print("this is github commit example 7")
-    print("this is github commit example 7")
-    print("this is github commit example 11")
+
