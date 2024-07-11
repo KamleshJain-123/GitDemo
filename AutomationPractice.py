@@ -15,3 +15,5 @@ driver.find_element(By.LINK_TEXT, "Reload").click()
 
 time.sleep(5)
 print("this is github commit example 7")
+print("this is github commit example 7")
+print("this is github commit example 7")
