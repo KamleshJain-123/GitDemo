@@ -33,8 +33,5 @@ class testOne:
     driver.close()
 
     print("this is github commit example 1")
-<<<<<<< HEAD
-
-=======
     print("this is github commit example 2")
->>>>>>> 1d4c958124276d2717535e8c02c9e063e428b714
+
